@@ -10,5 +10,5 @@ default:
       color: '#FFFFFF'
     font_dir: /usr/share/fonts/truetype/msttcorefonts
     mime_type:
-      auto_detect: false
+      auto_detect: true
       library: gd_mime_type #  gd_mime_type (GD), Fileinfo (PECL), MIME_Type (PEAR)
